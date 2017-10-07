@@ -62,5 +62,6 @@
   <ItemGroup>
     <None Include="Install\001_CreateDb.sql" />
     <None Include="Install\002_Create_Schemas.sql" />
+    <None Include="Install\003_topics.sql" />
   </ItemGroup>
 </Project>
