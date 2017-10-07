@@ -1,0 +1,6 @@
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProj.Repository\bin\Debug\RProj.Repository.dll
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProj.Repository\bin\Debug\RProj.Repository.pdb
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProj.Repository\obj\Debug\RProj.Repository.csprojResolveAssemblyReference.cache
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProj.Repository\obj\Debug\RProj.Repository.csproj.CoreCompileInputs.cache
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProj.Repository\obj\Debug\RProj.Repository.dll
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProj.Repository\obj\Debug\RProj.Repository.pdb
