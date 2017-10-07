@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RProj.Repository", "RProj.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rproj.DbHelpers", "Rproj.DbHelpers\Rproj.DbHelpers.csproj", "{045258E2-FD27-4724-85DB-678D7F307E61}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RProjDb", "RProjDb\RProjDb.sqlproj", "{A1AD2D4E-D901-4083-A61A-E805EDC67E64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{045258E2-FD27-4724-85DB-678D7F307E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{045258E2-FD27-4724-85DB-678D7F307E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{045258E2-FD27-4724-85DB-678D7F307E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1AD2D4E-D901-4083-A61A-E805EDC67E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AD2D4E-D901-4083-A61A-E805EDC67E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AD2D4E-D901-4083-A61A-E805EDC67E64}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A1AD2D4E-D901-4083-A61A-E805EDC67E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AD2D4E-D901-4083-A61A-E805EDC67E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1AD2D4E-D901-4083-A61A-E805EDC67E64}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F3A527F3-EEDC-48B3-8487-17EF728EA772} = {CA390AFC-4B95-4DC1-B08A-7CBD44734E35}
 		{045258E2-FD27-4724-85DB-678D7F307E61} = {CA390AFC-4B95-4DC1-B08A-7CBD44734E35}
+		{A1AD2D4E-D901-4083-A61A-E805EDC67E64} = {23212C4B-27BC-4328-9452-C1FB89E0FADB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EA8DF59B-527A-468E-8027-F69EFF9543B6}

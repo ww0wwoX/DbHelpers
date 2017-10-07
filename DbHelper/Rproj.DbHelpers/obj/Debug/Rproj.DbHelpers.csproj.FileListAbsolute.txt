@@ -1,6 +1,5 @@
 C:\Work\DbHelpers\DbHelpers\DbHelper\Rproj.DbHelpers\bin\Debug\Rproj.DbHelpers.dll
 C:\Work\DbHelpers\DbHelpers\DbHelper\Rproj.DbHelpers\bin\Debug\Rproj.DbHelpers.pdb
-C:\Work\DbHelpers\DbHelpers\DbHelper\Rproj.DbHelpers\obj\Debug\Rproj.DbHelpers.csprojResolveAssemblyReference.cache
 C:\Work\DbHelpers\DbHelpers\DbHelper\Rproj.DbHelpers\obj\Debug\Rproj.DbHelpers.csproj.CoreCompileInputs.cache
 C:\Work\DbHelpers\DbHelpers\DbHelper\Rproj.DbHelpers\obj\Debug\Rproj.DbHelpers.dll
 C:\Work\DbHelpers\DbHelpers\DbHelper\Rproj.DbHelpers\obj\Debug\Rproj.DbHelpers.pdb

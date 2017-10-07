@@ -1,0 +1,9 @@
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\bin\Debug\RProjDb.dacpac
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\bin\Debug\RProjDb.dll
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\bin\Debug\RProjDb.pdb
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\obj\Debug\Model.xml
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\obj\Debug\refactor.xml
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\obj\Debug\postdeploy.sql
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\obj\Debug\predeploy.sql
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\obj\Debug\RProjDb.dll
+C:\Work\DbHelpers\DbHelpers\DbHelper\RProjDb\obj\Debug\RProjDb.pdb
